@@ -41,7 +41,7 @@ Contact {
   <summary>📈 If Anything More</summary>
   <br/>
   
-📊 Something More
+📊 Nothing For Now
 ------
 
 
